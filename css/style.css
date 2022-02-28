@@ -43,6 +43,25 @@ img {
     text-transform: capitalize;
 }
 .video {
-    border: 50px;
-    border-color: darkorange;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.sms {
+    background-color: crimson;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    text-decoration: line-through;
+    text-align: center;
+}
+.down {
+    background-color: darkgoldenrod;
+    color: black;
+    text-decoration: solid;
+    text-align: center;
+    text-shadow: 5px;
+}
+body {
+    background-color:fuchsia;
 }
